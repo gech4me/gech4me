@@ -7,7 +7,7 @@ Experienced Software Developer with a demonstrated history of working in the com
 - 🔭 I’m currently working on DPST and DRCS projects
 - 🌱 I’m currently learning NativeScript
 - 👯 I’m looking to collaborate on Laravel Projects
-- 💬 Ask me about anything
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/gech2me/).
 - 😄 My Name in Amharic: ጌታቸው ሙላት 
 
 ###

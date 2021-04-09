@@ -1,10 +1,8 @@
 ### Hi there 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gech4me)
 
-# 👀GitHub Stats 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=gech4me&count_private=true&show_icons=true&hide=contribs)
 
-# 📌Most Used Programming Languages
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=gech4me&count_private=true&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gech4me&layout=compact)
 
 # 📧How to reach me

@@ -1,4 +1,4 @@
-### Hi there, I'm Getachew Mulat, 
+### Hi there, I'm Getachew Mulat👋 
 Experienced Software Developer with a demonstrated history of working in the computer software industry. Skilled in Git, Laravel, VueJS, Mapbox, NuxtJS, and Database Design. Strong engineering professional with a Bachelor's degree focused on Computer Science from Wolkite University. 
 
 

@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gech4me)
 
+# 👀GitHub Stats 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=gech4me&count_private=true&show_icons=true&hide=contribs)
+
+
 <!--
 **gech4me/gech4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

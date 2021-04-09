@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Getachew Mulat👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gech4me)
 
 #

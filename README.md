@@ -1,5 +1,6 @@
 ### Hi there, I'm Getachew Mulat, 
-Ambitious Full stack Web Developer brings enthusiasm and detailed understanding of various programming languages to web apps planning, designing, development and maintenance.
+Experienced Software Developer with a demonstrated history of working in the computer software industry. Skilled in Git, Laravel, VueJS, Mapbox, NuxtJS, and Database Design. Strong engineering professional with a Bachelor's degree focused on Computer Science from Wolkite University. 
+
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gech4me)
 

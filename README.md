@@ -4,7 +4,7 @@ Full Stack Web Developer with 3+ years of hands-on experience designing, develop
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gech4me)
 
-- 🔭 I’m currently working on DPST and DRCS projects
+- 🔭 I’m currently working on Digital Partner Statistical Tool and Digital Complaint and Request System projects
 - 🌱 I’m currently learning NativeScript
 - 👯 I’m looking to collaborate on Laravel Projects
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/gech2me/).

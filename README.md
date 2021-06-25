@@ -15,7 +15,7 @@ Full Stack Web Developer with 3+ years of hands-on experience designing, develop
 ![Overall Stats](https://github-readme-stats-gech4me.vercel.app/api?username=gech4me&count_private=true&show_icons=true)
 
 ###
-![Top Langs](https://github-readme-stats-gech4me.vercel.app/api/top-langs/?username=gech4me&&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats-gech4me.vercel.app/api/top-langs/?username=gech4me&&layout=compact&langs_count=20)
 
 
 ### 📧How to reach me

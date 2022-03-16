@@ -1,12 +1,35 @@
 ### Hi there, I'm Getachew Mulat👋 
-Full Stack Web Developer with 3+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full Stack Web Developer.
+My enthusiasm for developing web applications goes far beyond the fundamentals. My services are tailored to fit every business, showcase every brand, and bring ideas to life. Delivering only the best for clients. An application that genuinely adds value, and a cutting-edge design that stands out from the crowd.
+
+Experienced Full-Stack Web App Developer. For the past six years, I've been developing outstanding websites and web applications. I will bring all stages of your Web App Development to life.
+
+✏️ Backend:
+- PHP, Laravel, Custom Framework, Lumen
+- Tenancy for Laravel, Spatie packages
+- Java, Spring
+
+✏️ Frontend:
+- Vue.js, Vuex, Vuetify, Buefy, Nuxt.js, Element ui
+- Webpack, babel
+- Bootstrap, Tailwind css
+- jQuery, Datatables, Mapbox.js
+
+✏️ Databases:
+- MySQL, PostgreSQL
+
+✏️ Design and prototype:
+- Figma, Adobe XD
+
+✏️ Tools:
+- Git, Github
+
+My passion is web development. In this sector, I have the ability to produce a very desirable solution. I would be delighted to support you in turning your concept into reality by creating a modern and appealing concept.
+
+I'm excited to be a part of your initiative.
 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gech4me)
 
-- 🔭 I’m currently working on Digital Partner Statistical Tool and Digital Complaint and Request System projects
-- 🌱 I’m currently learning NativeScript
-- 👯 I’m looking to collaborate on Laravel Projects
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/gech2me/).
 - 😄 My Name in Amharic: ጌታቸው ሙላት 
 

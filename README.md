@@ -23,10 +23,9 @@ Experienced Full-Stack Web App Developer. For the past six years, I've been deve
 ✏️ Tools:
 - Git, Github
 
-My passion is web development. In this sector, I have the ability to produce a very desirable solution. I would be delighted to support you in turning your concept into reality by creating a modern and appealing concept.
+My passion is web development. In this sector, I have the ability to produce a very desirable solution. I would be delighted to support you in turning your concept into reality by creating a modern and appealing web application.
 
 I'm excited to be a part of your initiative.
-
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gech4me)
 

@@ -29,19 +29,7 @@ I'm excited to be a part of your initiative.
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gech4me)
 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/gech2me/).
+- 💬 Ask me about anything [here](https://getachewmulat.com).
 - 😄 My Name in Amharic: ጌታቸው ሙላት 
-
-
-###
-![Overall Stats](https://github-readme-stats-gech4me.vercel.app/api?username=gech4me&count_private=true&show_icons=true)
-
-###
-![Top Langs](https://github-readme-stats-gech4me.vercel.app/api/top-langs/?username=gech4me&&layout=compact&langs_count=20)
-
-
-### 📧How to reach me
-<a href="mailto:gech2me@gmail.com" target="_blank">![gech2me@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/gech2me/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 

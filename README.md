@@ -5,10 +5,11 @@ Experienced full-stack web developer. For the past six years, I've been developi
 
 ✏️ Backend:
 - ✅ PHP, Laravel, Custom Framework, Lumen
+- ✅ Javascript, Node.js, Express.js, Nest.js
 - ✅ Tenancy for Laravel, Spatie packages
 
 ✏️ Frontend:
-- ✅ Vue.js, Vuex, Vuetify, Quasar, Buefy, Nuxt.js, Element UI
+- ✅ Vue.js, React.js, Vuex, Vuetify, Quasar, Buefy, Nuxt.js, Element UI
 - ✅ Webpack, babel
 - ✅ Bootstrap, Tailwind CSS
 - ✅ jQuery, Datatables, Mapbox.js
@@ -18,7 +19,14 @@ Experienced full-stack web developer. For the past six years, I've been developi
 - ✅ Klarna, Stripe, Affirm
 
 ✏️ Databases:
-- ✅ MySQL, PostgreSQL
+- ✅ MySQL, PostgreSQL, MongoDB
+
+✏️ DevOps:
+- ✅ AWS, Docker, Nginx, Apache, Linux, Bash
+
+✏️ Testing:
+- ✅ InfluxDB, Grafana, K6
+- ✅ Cypress.js Jest.js, PHPUnit
 
 ✏️ Design and prototype:
 - ✅ Figma, Adobe XD

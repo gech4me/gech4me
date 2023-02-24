@@ -1,7 +1,7 @@
 ### Hi there, I'm Getachew Mulat👋 
 My enthusiasm for developing web applications goes far beyond the fundamentals. My services are tailored to fit every business, showcase every brand, and bring ideas to life. Delivering only the best for clients. An application that genuinely adds value, and a cutting-edge design that stands out from the crowd.
 
-Experienced full-stack web developer. For the past six years, I've been developing outstanding websites and web applications. I will bring all stages of your web app development to life.
+Experienced full-stack web developer. For the past seven years, I've been developing outstanding websites and web applications. I will bring all stages of your web app development to life.
 
 ✏️ Backend:
 - ✅ PHP, Laravel, Custom Framework, Lumen

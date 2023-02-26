@@ -1,7 +1,7 @@
-### Hi there, I'm Getachew Mulat👋 
-My enthusiasm for developing web applications goes far beyond the fundamentals. My services are tailored to fit every business, showcase every brand, and bring ideas to life. Delivering only the best for clients. An application that genuinely adds value, and a cutting-edge design that stands out from the crowd.
+⭐⭐⭐⭐⭐ "Getachew is a skilled dev. He combines High-quality work, great communication, provides recommendations, and gets work completed in a timely manner. Don't waste time looking for other developers on Upwork, looking forward to working with you again!"
+- Remy Y., Upwork client
 
-Experienced full-stack web developer. For the past seven years, I've been developing outstanding websites and web applications. I will bring all stages of your web app development to life.
+I've spent the last 7+ years developing outstanding websites and web applications for small startups to large multi-million dollar corporations, and I've completed over 30 projects with agile development, industry clean-code standards, and quick delivery, I will bring all stages of your web app development to life.
 
 ✏️ Backend:
 - ✅ PHP, Laravel, Custom Framework, Lumen
@@ -35,7 +35,7 @@ Experienced full-stack web developer. For the past seven years, I've been develo
 - ✅ Git, Github
 
 
-My passion is web development. In this sector, I have the ability to produce a very desirable solution. I would be delighted to support you in turning your concept into reality by creating a modern and appealing web application.
+Web development is my passion. In this industry, I can provide a highly desirable solution. I would be delighted to support you in turning your concept into reality by creating a modern and appealing web application.
 
 I'm excited to be a part of your initiative.
 

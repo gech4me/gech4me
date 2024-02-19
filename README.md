@@ -1,65 +1,31 @@
-My passion for web development extends beyond the fundamentals - I provide customized services tailored to each client's unique business needs, brand identity, and vision. My goal is to bring your ideas to life through an application that adds value, with an innovative design that makes you stand out.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Getachew Mulat
+======================================================================================================================================
 
-As an experienced full-stack developer with over 7 years of experience, I am committed to delivering excellence by creating robust solutions using PHP, Laravel, Vue.js, and React.js that are genuinely beneficial for your business and users.
+Full Stack Developer
+--------------------
 
-My expertise includes:
+Getachew is a results-driven full-stack developer with over 7 years of experience building performant web applications. He is committed to delivering excellence by creating robust web applications using PHP, Laravel, Javascript, Typescript, Vue.js, React.js, TailwindCSS, and other related technologies that are genuinely beneficial for your business and users.
 
-⭐ Architecting scalable cloud-based applications and microservices on AWS
+* 🌍  I'm based in Addis Ababa, Ethiopia
+* 🖥️  See my portfolio at [getachewmulat.com](http://getachewmulat.com)
+* ✉️  You can contact me at [gech2me@gmail.com](mailto:gech2me@gmail.com)
 
-⭐ Building high-performance front-end interfaces with React/Vue.js
-
-⭐ Developing secure Laravel/PHP backends and REST APIs
-
-⭐ Integrating payment systems like Stripe, Klarna, and Affirm
-
-⭐ Optimizing MySQL/MongoDB databases for speed and efficiency
-
-⭐ Implementing CI/CD pipelines for automated deployments
-
-⭐ Ensuring reliability through rigorous testing and debugging
-
-⭐ Leading Agile sprints, refactoring legacy code, and improving processes
-
-I focus on collaborating closely to understand exactly what you need and providing a product that accomplishes your goals and works seamlessly. My aim is to deliver both functional and cutting-edge applications that combine technical expertise with creative vision to produce results you will be proud of.
-
-Having successfully built robust e-commerce platforms processing millions in sales, I am excited to take on new projects and make your success my success. My commitment extends beyond just delivery to ongoing maintenance, optimization, and support throughout the product lifecycle.
-
-Let's bring your vision to life! Message me so we can discuss how my expertise can deliver tremendous value. Eager to potentially collaborate and make your web app a success!
-
-✏️ Backend:
-- ✅ PHP, Laravel, Custom Framework, Lumen
-- ✅ Javascript, Node.js, Express.js, Nest.js
-- ✅ Tenancy for Laravel, Spatie packages
-
-✏️ Frontend:
-- ✅ Vue.js, React.js, Vuex, Vuetify, Quasar, Buefy, Nuxt.js, Element UI
-- ✅ Webpack, babel
-- ✅ Bootstrap, Tailwind CSS
-- ✅ jQuery, Datatables, Mapbox.js
-
-✏️ APIs:
-- ✅ Google Cloud Storage,  Google Ads,  Google Cloud Vision
-- ✅ Klarna, Stripe, Affirm
-
-✏️ Databases:
-- ✅ MySQL, PostgreSQL, MongoDB
-
-✏️ DevOps:
-- ✅ AWS, Docker, Nginx, Apache, Linux, Bash
-
-✏️ Testing:
-- ✅ InfluxDB, Grafana, K6
-- ✅ Cypress.js Jest.js, PHPUnit
-
-✏️ Design and prototype:
-- ✅ Figma, Adobe XD
-
-✏️ Tools:
-- ✅ Git, Github
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gech4me)
-
-- 💬 Ask me about anything [here](https://getachewmulat.com).
-- 😄 My Name in Amharic: ጌታቸው ሙላት 
+### Skills
 
 
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/gech4me" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gech2me" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/gech2me" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/gech4me"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gech4me&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/gech4me"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gech4me&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

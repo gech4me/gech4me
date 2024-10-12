@@ -6,7 +6,7 @@ Full Stack Developer
 
 Getachew is a results-driven full-stack developer with over 7 years of experience building performant web applications. He is committed to delivering excellence by creating robust web applications using PHP, Laravel, Javascript, Typescript, Vue.js, React.js, TailwindCSS, and other related technologies that are genuinely beneficial for your business and users.
 
-* 🌍  I'm based in Addis Ababa, Ethiopia
+* 🌍  I'm based in Waterloo, Canada.
 * 🖥️  See my portfolio at [getachewmulat.com](http://getachewmulat.com)
 * ✉️  You can contact me at [gech2me@gmail.com](mailto:gech2me@gmail.com)
 

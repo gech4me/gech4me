@@ -8,7 +8,7 @@ Getachew is a results-driven full-stack developer with over 7 years of experienc
 
 * 🌍  I'm based in Waterloo, Canada.
 * 🖥️  See my portfolio at [getachewmulat.com](http://getachewmulat.com)
-* ✉️  You can contact me at [gech2me@gmail.com](mailto:gech2me@gmail.com)
+* ✉️  You can contact me at [getachew@getachewmulat.com](mailto:getachew@getachewmulat.com)
 
 ### Skills
 

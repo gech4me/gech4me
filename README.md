@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Getachew is a results-driven full-stack developer with over 7 years of experience building performant web applications. He is committed to delivering excellence by creating robust web applications using PHP, Laravel, Javascript, Typescript, Vue.js, React.js, TailwindCSS, and other related technologies that are genuinely beneficial for your business and users.
+Getachew is a results-driven full-stack developer with over 8 years of experience building performant web applications. He is committed to delivering excellence by creating robust web applications using PHP, Laravel, Javascript, Typescript, Vue.js, React.js, TailwindCSS, and other related technologies that are genuinely beneficial for your business and users.
 
 * 🌍  I'm based in Waterloo, Canada.
 * 🖥️  See my portfolio at [getachewmulat.com](http://getachewmulat.com)

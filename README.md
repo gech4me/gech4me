@@ -31,26 +31,6 @@ Figma, Linux, MacOS, Inertia.js, Stripe Integration, SaaS Multi-tenancy
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gech4me&show_icons=true&theme=tokyonight" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gech4me&theme=tokyonight&hide_border=true" />
-  <br /> <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gech4me&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gech4me&theme=monokai&column=7&no-frame=true" />
-</p>
-
----
-
 ### 📬 Let's Connect
 
 - 🌐 Portfolio: [getachewmulat.com](https://getachewmulat.com)

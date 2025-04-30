@@ -35,9 +35,9 @@ Figma, Linux, MacOS, Inertia.js, Stripe Integration, SaaS Multi-tenancy
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gech4me&show_icons=true&theme=tokyonight" />
-  <br />
+  <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gech4me&theme=tokyonight&hide_border=true" />
-  <br />
+  <br /> <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gech4me&layout=compact&theme=tokyonight" />
 </p>
 

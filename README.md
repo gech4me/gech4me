@@ -1,4 +1,4 @@
-<p align="center"><b>Senior Full Stack Developer | Laravel • Vue • React • AWS • SaaS Architect</b></p>
+<p align="center"><b>Senior Full Stack Developer | Laravel • Vue • PHP • MySQL • AWS • SaaS Architect</b></p>
 <p align="center">📍 Based in Waterloo, Canada | Open to Remote & On-site Opportunities</p>
 
 ---
@@ -7,7 +7,7 @@
 
 I’m a senior full-stack developer with 8+ years of experience building high-performance web applications that solve real business problems.
 
-I specialize in developing scalable, multi-tenant SaaS platforms, architecting backend systems in Laravel, and crafting intuitive frontends with Vue.js and React. I’m passionate about clean code, clear architecture, and continuous improvement — and I back that up with results.
+I specialize in developing scalable, multi-tenant SaaS platforms, architecting backend systems in Laravel, and crafting intuitive frontends with Vue.js and TailwindCSS. I’m passionate about clean code, clear architecture, and continuous improvement — and I back that up with results.
 
 - ✅ 50K+ users served through custom-built platforms  
 - ✅ $300K+ revenue generated across multiple apps  
@@ -18,7 +18,7 @@ I specialize in developing scalable, multi-tenant SaaS platforms, architecting b
 ### 🚀 Core Tech & Tools
 
 **Languages & Frameworks**  
-PHP, JavaScript, TypeScript, Laravel, Vue.js, React, Livewire, Next.js, Tailwind CSS
+PHP, JavaScript, TypeScript, Laravel, Vue.js, Tailwind CSS
 
 **DevOps & Infrastructure**  
 Docker, GitHub Actions, CI/CD, AWS (EC2, S3, RDS), DigitalOcean
@@ -27,7 +27,7 @@ Docker, GitHub Actions, CI/CD, AWS (EC2, S3, RDS), DigitalOcean
 MySQL, PostgreSQL, Redis, WebSockets, RESTful APIs
 
 **Extras**  
-Figma, Linux, MacOS, Inertia.js, Stripe Integration, SaaS Multi-tenancy
+Linux, MacOS, Inertia.js, Stripe Integration, SaaS Multi-tenancy
 
 ---
 
